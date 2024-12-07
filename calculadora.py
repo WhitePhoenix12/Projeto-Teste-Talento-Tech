@@ -1,0 +1,1 @@
+#Considere esse arquivo como um exemplo de uma calculadora em Python
